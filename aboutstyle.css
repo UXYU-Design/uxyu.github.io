@@ -1,0 +1,104 @@
+/*contaier examle */
+.container{
+    width:100%;
+    height: 1100px;
+    margin:auto;
+    font-family:  Arial, Verdana, sans-serif;
+}
+.box0{
+    float: left;
+    font-size: 20px;
+    text-align: left;
+    width: 20%;
+    height:100px;
+}
+
+.box1{
+float: left;
+font-size: 20px;
+text-align: left;
+width: 80%;
+height:100px;
+}
+.box1{
+    float: left;
+    font-size: 20px;
+    text-align: left;
+    width: 80%;
+    height:100px;
+    }
+    .box2{
+        float: left;
+        font-size: 20px;
+        text-align: left;
+        width: 50%;
+        height:500px;
+        padding-left: 3opx;
+        }
+        .box3{
+            float: left;
+            font-size: 20px;
+            text-align: left;
+            width: 50%;
+            height:500px;
+            }        
+            
+.box4{
+    float: left;
+    font-size: 30px;
+    text-align: CENTER;
+    width: 100%;
+    height:510PX;
+    }
+.box5{
+    float: left;
+    font-size: 20px;
+    text-align: CENTER;
+    width: 100%;
+    height:150px;
+    }
+    .box61{
+        float: left;
+        font-size: 20px;
+        text-align: left;
+        width: 50%;
+        height:500px;
+        }
+        .box62{
+            float: left;
+            font-size: 20px;
+            text-align: left;
+            width: 50%;
+            height:500px;
+            }
+            .box71{
+                float: left;
+                font-size: 10px;
+                text-align: left;
+                width: 50%;
+                height:200px;
+                }
+                .box72{
+                    float: left;
+                    font-size: 10px;
+                    text-align: left;
+                    width: 50%;
+                    height:200px;
+                    }
+                                    
+                            
+ul{
+    list-style-type: none;
+}
+
+li a{
+    display:block;
+    color:black;
+    font-size:17px;
+    text-decoration: none;
+    margin-left:10px;
+    padding-right:40px;
+    text-align: center;
+    padding:14px 16px;
+    margin-top:10px;
+}
